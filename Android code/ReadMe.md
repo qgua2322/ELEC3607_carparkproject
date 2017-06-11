@@ -7,3 +7,8 @@ If u just want to read about the code we write/change, open ledControl.java, Dev
 
 
 Code Source: www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
+
+
+
+![pair](/Andorid code/pair.png "pair")  
+![inside](/Andorid code/inside.jpg "inside")
