@@ -1,0 +1,6 @@
+Test cases:
+1.	Pair device 每 reserve 每 door opens 每 park in 每 door closes 每 wait few seconds 每 leave 每 pay 每 door opens 每 car left 每 door closes 每 back to first state.
+2.	Pair device 每 reserve 每 door opens 每 park in 每 door closes 每 wait few seconds 每 leave 每  do not pay 每 door keeps closed until pay 每 door opens - car left 每 door closes 每 back to first state.
+3.	Pair device 每 reserve 每 door opens 每 do not park in 每 door keeps open 每 park in - door closes 每 wait few seconds 每 leave 每 pay 每 door opens 每 car left 每 door closes 每 back to first state.
+4.	Pair device 每 reserve 每 door opens 每 park in 每 door closes 每 wait few seconds 每 pay 每 nothing happens - leave 每 pay 每 door opens 每 car left 每 door closes 每 back to first state.
+5.	Pair device 每 leave 每 nothing happens 每 pay 每 nothing happens 每 disconnect 每 app quits
