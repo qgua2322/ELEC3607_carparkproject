@@ -27,5 +27,17 @@ The Arduino Due board takes actions upon commands received via BT. A LCD screen 
 ## Schematic:
 ![schematic](/schematic.png "Schematic")
 
+## Reference:
+Arduino pin map: https://www.arduino.cc/en/Main/ArduinoBoardDue  
+Arduino due schematic:https://www.arduino.cc/en/uploads/Main/arduino-Due-schematic.pdf   
+LCD connection:https://www.arduino.cc/en/Guide/TFTtoBoards   
+LCD display:https://www.arduino.cc/en/Reference/TFTLibrary  
+FSM in Appendeix A:https://flip.ee.usyd.edu.au/seiewiki/Labs/interrupts  
+Bluetooth2.0: http://wiki.seeedstudio.com/wiki/Bluetooth_Shield  
+Bluetooth4.0: http://linksprite.com/wiki/index.php5?title=Bluetooth_4.0_BLE_Pro_Shield_for_Arduino_(Master/Slave_and_iBeacon)  
+Kicad tutorial: https://www.youtube.com/watch?v=o6IWdPpZ4mc  
+Android tutorial:https://developer.android.com/training/index.html  
+Android control APP: http://www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/  
+
 
        
