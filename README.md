@@ -2,7 +2,7 @@
 2017 ELEC3607 project9 (USYD):  
 
 ## Team members: 
-QISHEN GUAN 450549016  qgua2322@uni.sydney.edu.au
+QISHEN GUAN 450549016  qgua2322@uni.sydney.edu.au  
 MINGYUAN XIA  450549223
 
 
