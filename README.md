@@ -9,6 +9,7 @@ MINGYUAN XIA  450549223
 ## Manul: 
 file fsm : code on arduino   
 file schematic: schematic of this project  
+file android code: Our own control App
        
 
 ## Project description :  
