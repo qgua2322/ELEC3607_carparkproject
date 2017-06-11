@@ -10,5 +10,5 @@ Code Source: www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
 
 
 
-![pair](/Andorid code/pair.png "pair")  
-![inside](/Andorid code/inside.jpg "inside")
+![pair](/Android code/pair.png "pair")  
+![inside](/Android code/inside.jpg "inside")
