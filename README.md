@@ -34,7 +34,7 @@ The Arduino Due board takes actions upon commands received via BT. A LCD screen 
 ![flowchart](/flowchart.png "Flowchart")
 
 
-## Schematic:
+## Schematic: by KiCad
 ![schematic](/schematic.png "Schematic")
 
 ## Reference:
