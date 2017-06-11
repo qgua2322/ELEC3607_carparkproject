@@ -9,7 +9,17 @@ MINGYUAN XIA  450549223
 ## Manul: 
 file fsm : code on arduino   
 file schematic: schematic of this project  
-file android code: Our own control App
+file android code: Our own control App  
+file testcase : testcase of this project.  
+3607report: ALL the detail of this project.  
+
+## How to use:  
+1. put fsm in ur Arduino due  
+2. put unzip led.zip in file android code and then put it in Android studio then install this app on ur phone.
+3. Connect all components as schematic
+4. run the testcase to check whether all components are good.
+5. Have fun
+
        
 
 ## Project description :  
