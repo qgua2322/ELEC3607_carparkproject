@@ -6,6 +6,9 @@ LED.zip is the project file of Android Studio. It contain all the stuffs of our 
 If u just want to read about the code we write/change, open ledControl.java, DeviceList.java, AndroidManifest.
 
 
-Code Source: www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
+Code Source: www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/  
 
+# APP GUI
 
+![pair](/Android%20code/pair.png "pair")
+![inside](/Android%20code/inside.jpg "inside")
