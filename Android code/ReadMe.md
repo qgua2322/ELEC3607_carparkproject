@@ -9,6 +9,3 @@ If u just want to read about the code we write/change, open ledControl.java, Dev
 Code Source: www.instructables.com/id/Android-Bluetooth-Control-LED-Part-2/
 
 
-
-![pair](ELEC3607_carparkproject/Android code/pair.png "pair")  
-![inside](/Android code/inside.jpg "inside")
